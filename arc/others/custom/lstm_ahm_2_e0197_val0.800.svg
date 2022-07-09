@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="export"
+   class="canvas"
+   preserveAspectRatio="xMidYMid meet"
+   style=""
+   width="666"
+   height="135"
+   version="1.1"
+   sodipodi:docname="lstm_ahm_2_e0197_val0.800.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs216">
+    <defs
+       id="defs10">
+      <marker
+         id="arrowhead-vee"
+         viewBox="0 0 10 10"
+         refX="9"
+         refY="5"
+         markerUnits="strokeWidth"
+         markerWidth="8"
+         markerHeight="6"
+         orient="auto"
+         style="fill:#000000">
+        <path
+           d="M 0,0 10,5 0,10 4,5 Z"
+           style="stroke-width:1"
+           id="path4" />
+      </marker>
+      <marker
+         id="arrowhead-vee-select"
+         viewBox="0 0 10 10"
+         refX="9"
+         refY="5"
+         markerUnits="strokeWidth"
+         markerWidth="8"
+         markerHeight="6"
+         orient="auto"
+         style="fill:#ee0000">
+        <path
+           d="M 0,0 10,5 0,10 4,5 Z"
+           style="stroke-width:1"
+           id="path7" />
+      </marker>
+    </defs>
+  </defs>
+  <sodipodi:namedview
+     id="namedview214"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.9024024"
+     inkscape:cx="376.77205"
+     inkscape:cy="44.326123"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="export" />
+  <g
+     id="g1502"
+     inkscape:export-filename="lstm_ahm_2_e0197_val0.800.png"
+     inkscape:export-xdpi="300"
+     inkscape:export-ydpi="300">
+    <path
+       id="edge-input"
+       class="edge-path"
+       d="m 45.681055,67.1 h 1.666666 c 1.666667,0 5,0 12.143881,0 7.14388,0 18.098307,0 29.052734,0 10.954427,0 21.908854,0 29.052734,0 7.14388,0 10.47721,0 12.14388,0 h 1.66667"
+       style="fill:none;stroke:#000000;stroke-width:1px;marker-end:url(#arrowhead-vee);stroke-opacity:1" />
+    <path
+       id="edge-lstm_74_input"
+       class="edge-path"
+       d="m 206.40762,67.1 h 1.66666 c 1.66667,0 5,0 8.33334,0 3.33333,0 6.66666,0 8.33333,0 h 1.66667"
+       style="fill:none;stroke:#000000;stroke-width:1px;marker-end:url(#arrowhead-vee);stroke-opacity:1" />
+    <path
+       id="edge-lstm_74"
+       class="edge-path"
+       d="m 371.12393,67.1 h 1.66666 c 1.66667,0 5,0 8.33334,0 3.33333,0 6.66666,0 8.33333,0 h 1.66667"
+       style="fill:none;stroke:#000000;stroke-width:1px;marker-end:url(#arrowhead-vee);stroke-opacity:1" />
+    <path
+       id="edge-dropout_56"
+       class="edge-path"
+       d="m 466.12393,67.1 h 1.66666 c 1.66667,0 5,0 8.33334,0 3.33333,0 6.66666,0 8.33333,0 h 1.66667"
+       style="fill:none;stroke:#000000;stroke-width:1px;marker-end:url(#arrowhead-vee);stroke-opacity:1" />
+    <path
+       id="edge-dense_46"
+       class="edge-path"
+       d="m 579.95449,67.1 h 1.66667 c 1.66667,0 5,0 8.33333,0 3.33334,0 6.66667,0 8.33334,0 h 1.66666"
+       style="fill:none;stroke:#000000;stroke-width:1px;marker-end:url(#arrowhead-vee);stroke-opacity:1" />
+    <text
+       class="edge-label"
+       id="edge-label-edge-input"
+       style="font-size:10px;font-family:'-apple-system', BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', Ubuntu, 'Droid Sans', sans-serif, 'PingFang SC'"
+       x="65.681053"
+       y="77.099998"><tspan
+         xml:space="preserve"
+         dy="12"
+         x="66.681053"
+         id="tspan18">?×25×132</tspan></text>
+    <text
+       x="12.1"
+       y="71.599998"
+       style="font-size:11px;font-family:'-apple-system', BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', Ubuntu, 'Droid Sans', sans-serif, 'PingFang SC'"
+       id="text24">input</text>
+    <path
+       class="node border"
+       d="m 11.1,55.6 h 29.581055 a 5,5 0 0 1 5,5 v 13 a 5,5 0 0 1 -5,5 H 11.1 a 5,5 0 0 1 -5,-5 v -13 a 5,5 0 0 1 5,-5 z"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-opacity:1"
+       id="path30" />
+    <text
+       x="137.40762"
+       y="54.599998"
+       style="font-size:11px;font-family:'-apple-system', BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', Ubuntu, 'Droid Sans', sans-serif, 'PingFang SC';fill:#000000;fill-opacity:1"
+       id="text35">InputLayer</text>
+    <text
+       xml:space="preserve"
+       x="137.40762"
+       y="75.599998"
+       style="font-weight:normal;font-size:9px;font-family:'-apple-system', BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', Ubuntu, 'Droid Sans', sans-serif, 'PingFang SC'"
+       id="text47"><tspan
+         id="tspan43">ragged</tspan><tspan
+         id="tspan45"> = false</tspan></text>
+    <text
+       xml:space="preserve"
+       x="137.40762"
+       y="89.599998"
+       style="font-weight:normal;font-size:9px;font-family:'-apple-system', BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', Ubuntu, 'Droid Sans', sans-serif, 'PingFang SC'"
+       id="text53"><tspan
+         id="tspan49">sparse</tspan><tspan
+         id="tspan51"> = false</tspan></text>
+    <line
+       class="node"
+       x1="131.40762"
+       x2="206.40762"
+       y1="61.599998"
+       y2="61.599998"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-opacity:1"
+       id="line55" />
+    <path
+       class="node border"
+       d="m 136.40762,38.6 h 65 a 5,5 0 0 1 5,5 v 47 a 5,5 0 0 1 -5,5 h -65 a 5,5 0 0 1 -5,-5 v -47 a 5,5 0 0 1 5,-5 z"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-opacity:1"
+       id="path59" />
+    <text
+       x="232.40762"
+       y="22.1"
+       style="font-size:11px;font-family:'-apple-system', BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', Ubuntu, 'Droid Sans', sans-serif, 'PingFang SC';fill:#000000;fill-opacity:1"
+       id="text64">LSTM</text>
+    <text
+       xml:space="preserve"
+       x="232.40762"
+       y="43.099998"
+       style="font-weight:normal;font-size:9px;font-family:'-apple-system', BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', Ubuntu, 'Droid Sans', sans-serif, 'PingFang SC'"
+       id="text76"><tspan
+         id="tspan72">batch_input_shape</tspan><tspan
+         id="tspan74"> = null, 25, 132</tspan></text>
+    <text
+       xml:space="preserve"
+       x="232.40762"
+       y="57.099998"
+       style="font-weight:normal;font-size:9px;font-family:'-apple-system', BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', Ubuntu, 'Droid Sans', sans-serif, 'PingFang SC'"
+       id="text82"><tspan
+         id="tspan78">implementation</tspan><tspan
+         id="tspan80"> = 2</tspan></text>
+    <text
+       xml:space="preserve"
+       x="232.40762"
+       y="71.099998"
+       style="font-weight:normal;font-size:9px;font-family:'-apple-system', BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', Ubuntu, 'Droid Sans', sans-serif, 'PingFang SC'"
+       id="text88"><tspan
+         id="tspan84">recurrent_activation</tspan><tspan
+         id="tspan86"> = sigmoid</tspan></text>
+    <text
+       xml:space="preserve"
+       x="232.40762"
+       y="85.099998"
+       style="font-weight:normal;font-size:9px;font-family:'-apple-system', BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', Ubuntu, 'Droid Sans', sans-serif, 'PingFang SC'"
+       id="text94"><tspan
+         id="tspan90">time_major</tspan><tspan
+         id="tspan92"> = false</tspan></text>
+    <text
+       xml:space="preserve"
+       x="232.40762"
+       y="99.099998"
+       style="font-weight:normal;font-size:9px;font-family:'-apple-system', BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', Ubuntu, 'Droid Sans', sans-serif, 'PingFang SC'"
+       id="text100"><tspan
+         id="tspan96">units</tspan><tspan
+         id="tspan98"> = 64</tspan></text>
+    <line
+       class="node"
+       x1="226.40762"
+       x2="371.12393"
+       y1="29.1"
+       y2="29.1"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-opacity:1"
+       id="line102" />
+    <text
+       x="232.40762"
+       y="121.1"
+       style="font-size:11px;font-family:'-apple-system', BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', Ubuntu, 'Droid Sans', sans-serif, 'PingFang SC';fill:#000000;fill-opacity:1"
+       id="text108">TanH</text>
+    <line
+       class="node"
+       x1="226.40762"
+       x2="371.12393"
+       y1="105.1"
+       y2="105.1"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-opacity:1"
+       id="line112" />
+    <path
+       class="node border"
+       d="m 231.40762,6.1 h 134.71631 a 5,5 0 0 1 5,5 v 112 a 5,5 0 0 1 -5,5 H 231.40762 a 5,5 0 0 1 -5,-5 v -112 a 5,5 0 0 1 5,-5 z"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-opacity:1"
+       id="path114" />
+    <text
+       x="397.12393"
+       y="47.599998"
+       style="font-size:11px;font-family:'-apple-system', BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', Ubuntu, 'Droid Sans', sans-serif, 'PingFang SC';fill:#000000;fill-opacity:1"
+       id="text119">Dropout</text>
+    <text
+       xml:space="preserve"
+       x="397.12393"
+       y="68.599998"
+       style="font-weight:normal;font-size:9px;font-family:'-apple-system', BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', Ubuntu, 'Droid Sans', sans-serif, 'PingFang SC'"
+       id="text131"><tspan
+         id="tspan127">noise_shape</tspan><tspan
+         id="tspan129"> = </tspan></text>
+    <text
+       xml:space="preserve"
+       x="397.12393"
+       y="82.599998"
+       style="font-weight:normal;font-size:9px;font-family:'-apple-system', BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', Ubuntu, 'Droid Sans', sans-serif, 'PingFang SC'"
+       id="text137"><tspan
+         id="tspan133">rate</tspan><tspan
+         id="tspan135"> = 0.3</tspan></text>
+    <text
+       xml:space="preserve"
+       x="397.12393"
+       y="96.599998"
+       style="font-weight:normal;font-size:9px;font-family:'-apple-system', BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', Ubuntu, 'Droid Sans', sans-serif, 'PingFang SC'"
+       id="text143"><tspan
+         id="tspan139">seed</tspan><tspan
+         id="tspan141"> = </tspan></text>
+    <line
+       class="node"
+       x1="391.12393"
+       x2="466.12393"
+       y1="54.599998"
+       y2="54.599998"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-opacity:1"
+       id="line145" />
+    <path
+       class="node border"
+       d="m 396.12393,31.6 h 65 a 5,5 0 0 1 5,5 v 61 a 5,5 0 0 1 -5,5 h -65 a 5,5 0 0 1 -5,-5 v -61 a 5,5 0 0 1 5,-5 z"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-opacity:1"
+       id="path149" />
+    <text
+       x="492.12393"
+       y="29.1"
+       style="font-size:11px;font-family:'-apple-system', BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', Ubuntu, 'Droid Sans', sans-serif, 'PingFang SC';fill:#000000;fill-opacity:1"
+       id="text154">Dense</text>
+    <text
+       xml:space="preserve"
+       x="492.12393"
+       y="50.099998"
+       style="font-weight:normal;font-size:9px;font-family:'-apple-system', BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', Ubuntu, 'Droid Sans', sans-serif, 'PingFang SC'"
+       id="text166"><tspan
+         id="tspan162">activation</tspan><tspan
+         id="tspan164"> = softmax</tspan></text>
+    <text
+       xml:space="preserve"
+       x="492.12393"
+       y="64.099998"
+       style="font-weight:normal;font-size:9px;font-family:'-apple-system', BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', Ubuntu, 'Droid Sans', sans-serif, 'PingFang SC'"
+       id="text172"><tspan
+         id="tspan168">bias_constraint</tspan><tspan
+         id="tspan170"> = </tspan></text>
+    <text
+       xml:space="preserve"
+       x="492.12393"
+       y="78.099998"
+       style="font-weight:normal;font-size:9px;font-family:'-apple-system', BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', Ubuntu, 'Droid Sans', sans-serif, 'PingFang SC'"
+       id="text178"><tspan
+         id="tspan174">kernel_constraint</tspan><tspan
+         id="tspan176"> = </tspan></text>
+    <text
+       xml:space="preserve"
+       x="492.12393"
+       y="92.099998"
+       style="font-weight:normal;font-size:9px;font-family:'-apple-system', BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', Ubuntu, 'Droid Sans', sans-serif, 'PingFang SC'"
+       id="text184"><tspan
+         id="tspan180">units</tspan><tspan
+         id="tspan182"> = 10</tspan></text>
+    <line
+       class="node"
+       x1="486.12393"
+       x2="579.95447"
+       y1="36.099998"
+       y2="36.099998"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-opacity:1"
+       id="line186" />
+    <text
+       x="492.12393"
+       y="114.1"
+       style="font-size:11px;font-family:'-apple-system', BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', Ubuntu, 'Droid Sans', sans-serif, 'PingFang SC';fill:#000000;fill-opacity:1"
+       id="text192">Softmax</text>
+    <line
+       class="node"
+       x1="486.12393"
+       x2="579.95447"
+       y1="98.099998"
+       y2="98.099998"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-opacity:1"
+       id="line196" />
+    <path
+       class="node border"
+       d="m 491.12393,13.1 h 83.83057 a 5,5 0 0 1 5,5 v 98 a 5,5 0 0 1 -5,5 h -83.83057 a 5,5 0 0 1 -5,-5 v -98 a 5,5 0 0 1 5,-5 z"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-opacity:1"
+       id="path198" />
+    <text
+       x="605.95447"
+       y="71.599998"
+       style="font-size:11px;font-family:'-apple-system', BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', Ubuntu, 'Droid Sans', sans-serif, 'PingFang SC'"
+       id="text203">dense_46</text>
+    <path
+       class="node border"
+       d="m 604.95449,55.6 h 49.37012 a 5,5 0 0 1 5,5 v 13 a 5,5 0 0 1 -5,5 h -49.37012 a 5,5 0 0 1 -5,-5 v -13 a 5,5 0 0 1 5,-5 z"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-opacity:1"
+       id="path207" />
+  </g>
+</svg>
